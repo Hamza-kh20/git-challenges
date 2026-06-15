@@ -1,1 +1,1 @@
-"# · propos - version MAIN" 
+"# · propos - version CONFLICT" 
