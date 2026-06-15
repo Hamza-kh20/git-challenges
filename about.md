@@ -1,2 +1,1 @@
-# Ã€ propos
-Ce projet est mon apprentissage Git.
+"# · propos - version MAIN" 
