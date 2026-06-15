@@ -1,0 +1,7 @@
+Commandes de configuration Git utilisées :
+
+git config --global user.name 'TonPrénom'
+git config --global user.email 'ton@email.com'
+
+Pour vérifier :
+git config --global --list
