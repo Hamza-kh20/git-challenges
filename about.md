@@ -1,1 +1,1 @@
-# À propos - version CONFLICT
+"# · propos - version finale fusionn‚e" 
